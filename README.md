@@ -1,4 +1,3 @@
-# AMSS-2
 # AMSS
 # The zip file contains AMSS software. 
 # To install the software you would need to clone or download the .zip file to desired directory and unzip the content. 
