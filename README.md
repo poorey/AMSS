@@ -17,3 +17,4 @@
 
 #the name of the files can be changed in the main Jupyter notebook to customize the input files as needed.
 #if you need assistance contact Kunal Poorey (kpoorey@sandia.gov) if needed.
+#Copyright 2022 National Technology & Engineering Solutions of Sandia, LLC (NTESS). Under the terms of Contract DE-NA0003525 with NTESS, the U.S. #Government retains certain rights in this software
